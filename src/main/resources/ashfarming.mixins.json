@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.ash.farm.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MinecraftAccessorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
